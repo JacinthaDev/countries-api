@@ -33,4 +33,8 @@ In this project I created my own API. I learned more about how APIs work. I've u
 ## Examples:
 Take a look at similar projects!
 
-21 Savage Rap Lyrics: https://github.com/JacinthaDev/savage-complete
+Packing List:
+
+Library Catalog:
+
+Appointment Scheduler:
