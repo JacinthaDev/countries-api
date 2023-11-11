@@ -34,7 +34,3 @@ In this project I created my own API. I learned more about how APIs work. I've u
 Take a look at similar projects!
 
 21 Savage Rap Lyrics: https://github.com/JacinthaDev/savage-complete
-
-
-#### Backend Technologies
-MongoDB Atlas: https://www.mongodb.com/atlas/database
