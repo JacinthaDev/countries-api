@@ -1,6 +1,6 @@
 # 🌎 Countries API
 
-
+<img width="579" alt="countries" src="https://github.com/JacinthaDev/countries-api/assets/129231721/beb3227e-1550-4b70-bf38-9276eb251ee0">
 
 
 # About this project
@@ -32,6 +32,8 @@ In this project I created my own API. I learned more about how APIs work. I've u
 
 ## Examples:
 Take a look at similar projects!
+
+21 Savage Rap Lyrics: https://github.com/JacinthaDev/savage-complete
 
 
 #### Backend Technologies
